@@ -1,0 +1,47 @@
+body {
+  background-color: #030a04;
+  color:#ffb85d;
+}
+.navbar-brand img {
+  width: 140px;
+  height: 160px;
+}
+
+.navbar a {
+  color:#ffb85d;
+}
+
+.navbar-brand {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: .15px;
+}
+
+.navbar {
+  padding: 1em 0;
+}
+
+.navbar-toggler {
+  border: none !important;
+  outline: none !important;
+}
+
+.banner {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.home-header {
+  background-color: #030a04;
+  border-bottom: 3px solid #ffb85d;
+  border-left: 6px solid #ffb85d;
+}
+
+.banner-text {
+  font-size: 36px;
+  color: #ff5412;
+  padding-left: 4%;
+  padding-top: 220px;
+  padding-bottom: 150px;
+}
